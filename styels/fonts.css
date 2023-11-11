@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'EB Garamond';
+    src: local('ebgaramondmedium');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EB Garamond';
+    src: local('ebgaramondregular', './fonts');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('interregular', './fonts');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('interbold', './fonts');
+    font-display: swap;
+}

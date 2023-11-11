@@ -1,0 +1,10 @@
+{
+    "editor.fontLigatures": false,
+    "liveServer.settings.multiRootWorkspaceName": "white-list",
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "editor.cursorStyle": "line",
+    "editor.colorDecorators": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "expand"
+}
