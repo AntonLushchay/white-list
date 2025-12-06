@@ -1,7 +1,12 @@
 # С чистого листа
 
-![Статус проекта](https://img.shields.io/badge/Status-Completed-success)
-![Project Status](https://img.shields.io/badge/status-educational-orange)
+![Status](https://img.shields.io/badge/status-Completed-darkgreen)
+![Type](https://img.shields.io/badge/type-Educational-orange)
+![CI/CD](https://img.shields.io/badge/deploy-GitHub%20Pages-blue)
+![Audience](https://img.shields.io/badge/audience-Portfolio-purple)
+
+![HTML](https://img.shields.io/badge/HTML-5-red?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
 
 Учебный одностраничный сайт (лендинг), посвященный методам борьбы с прокрастинацией и "страхом чистого листа". Это мой самый первый проект по верстке, созданный в начале обучения веб-разработке.
 
